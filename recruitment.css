@@ -1,0 +1,75 @@
+.footer {
+    background-image: linear-gradient(to right, #F4DDF1 0, #B83D6E 100%);
+    padding: 10px 0;
+	margin:0;
+}
+
+.footer a {
+    
+    font-size: 20px;
+    padding: 10px;
+    border-right: 1px solid #70726F;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
+.footer a:first-child {
+    border-left: 1px solid #70726F;
+}
+
+.footer a:hover {
+    color: white;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+}
+.follow
+{
+	text-align:center;
+	
+	color:black;
+}
+.sh
+{
+    text-align: center;
+font-family: Brush Script MT;
+}
+.intro
+{
+    margin-left:200px;
+    margin-right:200px;
+}
+.intro1
+{
+text-align: justified;
+font-size:18px;
+font-family:Courier, monospace;
+
+}
+body
+{
+    overflow-x:hidden;
+}
+.vid{
+   
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+.sh2
+{
+    font-family:OCR A Std;
+    margin-left:180px;
+}
+.hed
+{
+font-family:American Typewriter;
+margin-left:180px;
+font-size:18px;
+font-weight:bold;
+}
+.exp
+{
+font-family:Courier;
+text-align:justify;
+margin-left:200px;
+margin-right:100px;
+}
